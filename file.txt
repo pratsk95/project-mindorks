@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 his is file.txt
 please ho re change
+=======
+This is modified file
+ata majhi satakli
+>>>>>>> 6c57c906149456c0ed43cecf3e344f4469997c9c
